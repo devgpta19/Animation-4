@@ -126,7 +126,6 @@ h1::after{
         left: 0;
         width: 100%;
         background-color: #00ff7f;
-
     }
 
     60%{
@@ -148,7 +147,7 @@ h1::after{
 
     100%{
         left: 100%;
-        width: 0;
+        width: 20%;
         background-color: #ffffff;
     }
 }
